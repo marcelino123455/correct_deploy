@@ -12,6 +12,10 @@ Este proyecto es una aplicación web construida con [Streamlit](https://streamli
 ## Instalación y ejecución
 
 ### 1. Clona el repositorio (si aún no lo hiciste)
+```bash
+git clone [https://github.com/tu_usuario/tu_repositorio.git](https://github.com/marcelino123455/correct_deploy.git)
+cd tu_repositorio
+```
 
 ### 2. Crea un entorno virtual
 
