@@ -1,6 +1,6 @@
 # Streamlit App Deployment
 
-Este proyecto es una aplicación web construida con [Streamlit](https://streamlit.io/) para visualizar datos o realizar tareas de machine learning. El link del deploy lo pueden encontrar en: https://uznarnia.streamlit.app/, sin embargo, es muy lenta para el propósito de neustra app por ello recomendamos los siguientes pasos.
+Este proyecto es una aplicación web construida con [Streamlit](https://streamlit.io/) para visualizar datos o realizar tareas de machine learning. El link del deploy lo pueden encontrar en: https://uznarnia.streamlit.app/, sin embargo, es muy lenta para el propósito de nuestra app por ello recomendamos los siguientes pasos.
 
 ## Requisitos
 
