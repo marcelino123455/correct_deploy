@@ -1,6 +1,6 @@
 # Streamlit App Deployment
 
-Este proyecto es una aplicación web construida con [Streamlit](https://streamlit.io/) para visualizar datos o realizar tareas de machine learning.
+Este proyecto es una aplicación web construida con [Streamlit](https://streamlit.io/) para visualizar datos o realizar tareas de machine learning. El link del deploy lo pueden encontrar en: https://uznarnia.streamlit.app/, sin embargo, es muy lenta para el propósito de neustra app por ello recomendamos los siguientes pasos.
 
 ## Requisitos
 
@@ -14,7 +14,6 @@ Este proyecto es una aplicación web construida con [Streamlit](https://streamli
 ### 1. Clona el repositorio (si aún no lo hiciste)
 ```bash
 git clone https://github.com/marcelino123455/correct_deploy.git
-cd tu_repositorio
 ```
 
 ### 2. Crea un entorno virtual
@@ -47,4 +46,7 @@ streamlit run visualizador.py
 ```
 
 ---
+### 6. Consideraciones
+- No es necesario crear el enviroment, pero puede que existan cruce entre las dependecias por eso se recomienda el enviroment.
+- El deploy se puede encontrar en el siguiente link https://uznarnia.streamlit.app/, sin embargo la idea de la plataforma es ver como los parámetros varían lo cual recalcula el proceso de k-means y hace que la página del deploy sea muy lenta, por ende, poder visualizar con dinamismo la aplicación recomendamos encarecidamente correrlo de manera local.
 
